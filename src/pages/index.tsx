@@ -19,7 +19,7 @@ export default function Home() {
 
   return (
       <div className = {'flex justify-center items-center h-screen bg-cyan-900'}>
-        <Layout titulo = "Cadastro simples">
+        <Layout titulo = "Cadastro Cliente">
           {tabelaVisivel ? (
             <>
           <div className = "flex justify-end">
